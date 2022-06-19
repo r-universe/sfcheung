@@ -1,0 +1,10 @@
+[
+  {
+    "package": "semptools",
+    "oncran": true
+  },
+  {
+    "package": "stdmod",
+    "oncran": true
+  }
+]
