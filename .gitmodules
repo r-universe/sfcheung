@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "manymome"]
-	path = manymome
-	url = https://github.com/sfcheung/manymome
-	shallow = true
-	registered = true
 [submodule "semhelpinghands"]
 	path = semhelpinghands
 	url = https://github.com/sfcheung/semhelpinghands

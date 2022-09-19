@@ -1,9 +1,5 @@
 [
   {
-    "package": "manymome",
-    "oncran": true
-  },
-  {
     "package": "semhelpinghands",
     "oncran": true
   },
