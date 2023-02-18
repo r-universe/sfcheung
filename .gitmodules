@@ -8,6 +8,11 @@
 	url = https://github.com/sfcheung/manymome
 	shallow = true
 	registered = true
+[submodule "semfindr"]
+	path = semfindr
+	url = https://github.com/sfcheung/semfindr
+	shallow = true
+	registered = true
 [submodule "semhelpinghands"]
 	path = semhelpinghands
 	url = https://github.com/sfcheung/semhelpinghands
