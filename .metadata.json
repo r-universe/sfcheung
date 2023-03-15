@@ -1,14 +1,6 @@
 [
   {
-    "package": "semptools",
-    "oncran": true
-  },
-  {
-    "package": "stdmod",
-    "oncran": true
-  },
-  {
-    "package": "semhelpinghands",
+    "package": "manymome",
     "oncran": true
   },
   {
@@ -16,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "manymome",
+    "package": "semhelpinghands",
+    "oncran": true
+  },
+  {
+    "package": "semptools",
+    "oncran": true
+  },
+  {
+    "package": "stdmod",
     "oncran": true
   }
 ]
