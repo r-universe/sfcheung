@@ -1,10 +1,10 @@
 [
   {
-    "package": "manymome",
+    "package": "semptools",
     "oncran": true
   },
   {
-    "package": "semfindr",
+    "package": "stdmod",
     "oncran": true
   },
   {
@@ -12,11 +12,11 @@
     "oncran": true
   },
   {
-    "package": "semptools",
+    "package": "semfindr",
     "oncran": true
   },
   {
-    "package": "stdmod",
+    "package": "manymome",
     "oncran": true
   }
 ]
