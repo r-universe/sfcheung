@@ -18,6 +18,11 @@
 	url = https://github.com/sfcheung/semhelpinghands
 	shallow = true
 	registered = true
+[submodule "semlbci"]
+	path = semlbci
+	url = https://github.com/sfcheung/semlbci
+	shallow = true
+	registered = true
 [submodule "semptools"]
 	path = semptools
 	url = https://github.com/sfcheung/semptools
