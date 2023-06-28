@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "manymome"]
 	path = manymome
 	url = https://github.com/sfcheung/manymome
-	shallow = true
-	registered = true
 [submodule "semfindr"]
 	path = semfindr
 	url = https://github.com/sfcheung/semfindr
-	shallow = true
-	registered = true
 [submodule "semhelpinghands"]
 	path = semhelpinghands
 	url = https://github.com/sfcheung/semhelpinghands
-	shallow = true
-	registered = true
 [submodule "semlbci"]
 	path = semlbci
 	url = https://github.com/sfcheung/semlbci
-	shallow = true
-	registered = true
 [submodule "semptools"]
 	path = semptools
 	url = https://github.com/sfcheung/semptools
-	shallow = true
-	registered = true
 [submodule "stdmod"]
 	path = stdmod
 	url = https://github.com/sfcheung/stdmod
-	shallow = true
-	registered = true
