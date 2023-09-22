@@ -5,6 +5,9 @@
 [submodule "manymome"]
 	path = manymome
 	url = https://github.com/sfcheung/manymome
+[submodule "modelbpp"]
+	path = modelbpp
+	url = https://github.com/sfcheung/modelbpp
 [submodule "semfindr"]
 	path = semfindr
 	url = https://github.com/sfcheung/semfindr
