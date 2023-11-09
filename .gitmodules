@@ -8,6 +8,9 @@
 [submodule "manymome"]
 	path = manymome
 	url = https://github.com/sfcheung/manymome
+[submodule "manymome.table"]
+	path = manymome.table
+	url = https://github.com/sfcheung/manymome.table
 [submodule "modelbpp"]
 	path = modelbpp
 	url = https://github.com/sfcheung/modelbpp
