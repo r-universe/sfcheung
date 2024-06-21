@@ -23,6 +23,9 @@
 [submodule "semlbci"]
 	path = semlbci
 	url = https://github.com/sfcheung/semlbci
+[submodule "semlrtp"]
+	path = semlrtp
+	url = https://github.com/sfcheung/semlrtp
 [submodule "semptools"]
 	path = semptools
 	url = https://github.com/sfcheung/semptools
