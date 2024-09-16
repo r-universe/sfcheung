@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lavaan.printer"]
+	path = lavaan.printer
+	url = https://github.com/sfcheung/lavaan.printer
 [submodule "lmhelprs"]
 	path = lmhelprs
 	url = https://github.com/sfcheung/lmhelprs
