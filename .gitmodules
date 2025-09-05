@@ -20,6 +20,9 @@
 [submodule "modelbpp"]
 	path = modelbpp
 	url = https://github.com/sfcheung/modelbpp
+[submodule "power4mome"]
+	path = power4mome
+	url = https://github.com/sfcheung/power4mome
 [submodule "semfindr"]
 	path = semfindr
 	url = https://github.com/sfcheung/semfindr
