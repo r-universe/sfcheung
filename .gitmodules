@@ -23,6 +23,9 @@
 [submodule "power4mome"]
 	path = power4mome
 	url = https://github.com/sfcheung/power4mome
+[submodule "semeqmodels"]
+	path = semeqmodels
+	url = https://github.com/sfcheung/semeqmodels
 [submodule "semfindr"]
 	path = semfindr
 	url = https://github.com/sfcheung/semfindr
